@@ -1,14 +1,12 @@
-## Custom BIOS for Huananzhi X99-CH8 Workstation Motherboard (CX99DE35)
-
-![CX99DE35 BIOS for HUANANZHI X99-CH8 Workstation Motherboard](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99-CH8.jpg)
-
-<a href="https://ko-fi.com/s/b03d7def5a"><img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/Download-Now-Button-PNG-Free-Download.png" alt="Buy and download CX99DE35 custom BIOS for HUANANZHI X99-CH8 Workstation Motherboard on ko-fi.com Store" /></a>
+# Custom BIOS for Huananzhi X99-CH8 Workstation Motherboard
 
 ## CX99DE35 BIOS for HUANANZHI X99-CH8 Workstation Motherboard Review.
 
 <a href="https://www.youtube.com/watch?v=lYvcepsQBaQ">
 <img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/CH8.jpg" alt="CX99DE35 BIOS for HUANANZHI X99-CH8 Workstation Motherboard Review" />
 </a>
+<a href="https://ko-fi.com/s/b03d7def5a"><img src="https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/Download-Now-Button-PNG-Free-Download.png" alt="Buy and download CX99DE35 custom BIOS for HUANANZHI X99-CH8 Workstation Motherboard on ko-fi.com Store" /></a>
+
 
 ## FIRMWARE FEATURES
 
@@ -49,3 +47,6 @@
 [PCIe Realtek GbE Driver for Windows 10 x64 Download](https://github.com/BIOS-iEngineer/SZMZ-X99-Dual-Z8/raw/main/Drivers/Windows%2010%20x64/PCIe%20Realtek%20GbE/PCIe%20Realtek%20GbE.zip)
 
 [Realtek High Definition Audio Drivers 2.81 for Windows 10 x64 Download (Google Search)](https://www.google.com/search?client=firefox-b-d&q=Realtek+High+Definition+Audio+Drivers+2.81+for+Windows+10+x64+Download)
+
+
+![CX99DE35 BIOS for HUANANZHI X99-CH8 Workstation Motherboard](https://raw.githubusercontent.com/BIOS-iEngineer/PNG/main/X99-CH8.jpg)

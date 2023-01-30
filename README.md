@@ -1,0 +1,2 @@
+# HUANANZHI-X99-CH8
+CX99DE35 BIOS for HUANANZHI X99-CH8 Workstation Motherboard
